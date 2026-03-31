@@ -1,9 +1,9 @@
-pandas
 numpy
 matplotlib
 joblib
-streamlit
 seaborn
-scikit-learn
 jupyter
 altair<5
+streamlit==1.32.0
+pandas==2.2.1
+scikit-learn==1.4.1
